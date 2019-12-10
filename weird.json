@@ -1,0 +1,44 @@
+{
+"companyName" : "Weird Things!",
+"headOffice" : "Barrie, Ontario",
+"established" : 2000,
+"active" : true,
+"oddStuff" : [
+  {
+    "name" : "Nicholas Cage Pillow, Obviously",
+    "price" : 24.95,
+    "description" : "It's fabulous",
+    "image" : "nicolasCagePillow.jpg",
+    "link" : "https://www.amazon.com/gp/product/B07FCG1HPG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FCG1HPG&linkCode=as2&tag=eathnoth06-20&linkId=e6a8874d8f1bd7fb8832f6869aecca8e"
+  },
+  {
+    "name" : "Cat Dress Carrier",
+    "price" : 16.99,
+    "description" : "Only Available to cool cats",
+    "image" : "cat-carrier-dress.jpg",
+    "link" : "https://www.amazon.com/gp/product/B079GVQ5W4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079GVQ5W4&linkCode=as2&tag=eathnoth06-20&linkId=c4bac665087e803b68abf1a14f212bc0"
+  },
+
+  {
+    "name" : "Hand-Squirrel?",
+    "price" : 9.45,
+    "description" : "Something every single human being would use on a dialy basis",
+    "image" : "handSquirrel.jpg",
+    "link" : "https://www.amazon.com/gp/product/B06XXQD54H/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XXQD54H&linkCode=as2&tag=eathnoth06-20&linkId=220339db14e6c52825948e62e1149b6a"
+  },
+  {
+    "name" : "inflatable Cat Horn",
+    "price" : 8.15,
+    "description" : "Mixes well with cat dress carrier!",
+    "image" : "inflatableCatHorn.jpg",
+    "link" : "https://www.amazon.com/gp/product/B00BPMMQDG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BPMMQDG&linkCode=as2&tag=eathnoth06-20&linkId=6902ae085298a3ad962c3860d70ac9ea"
+  },
+  {
+    "name" : "Nothing",
+    "price" : 6.98,
+    "description" : "Now available in gray!",
+    "image" : "nothing.jpg",
+    "link" : "https://www.amazon.com/gp/product/B019HDSCPU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019HDSCPU&linkCode=as2&tag=eathnoth06-20&linkId=364ed2614125e4c56375632009afaa98"
+  }
+  ]
+}
